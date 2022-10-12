@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SecuringAngularApps.API
+build_property.ProjectDir = c:\Users\dusan\OneDrive\Desktop\openId-connect-angular\02\demos\SecuringAngularApps.Backend-ASP.NET-2.2\SecuringAngularApps.API\
